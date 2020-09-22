@@ -1,5 +1,6 @@
 {
-  "name": "covidportal",
+  "name": "covidtest",
+  "homepage": "https://rksury.github.io/CovidTest/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
